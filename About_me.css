@@ -58,3 +58,6 @@ fotter div{
 a:hover{
     color:darkturquoise;
 }
+.container.custom-container-width {
+    max-width: 1010px;   
+}
