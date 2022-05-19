@@ -9,7 +9,9 @@ main{
 	font-family:Noto Serif TC Light,思源黑体 CN;
     
 }
-h1
+nav{
+    position: relative;
+}
 nav a {
     font-size: 17px;
     color:inherit;
