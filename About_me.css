@@ -25,11 +25,12 @@ h1 {
 h2 {
 	color: lightseagreen;
 	text-align: center;
-    font-size: 25px;
+    font-size: 40px;
 }
 P {
     text-indent:2em;
     line-height:0.7cm;
+    font-size: 15px;
 }
 
 nav a {
